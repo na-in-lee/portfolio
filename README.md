@@ -3,8 +3,8 @@
 ## **개인 정보**
 - **성명**: 이나인
 - **이메일**: nain29@gmail.com
-- **GitHub**: github.com/na-in-lee
-- **LinkedIn**: linkedin.com/in/lee-na-in
+- **GitHub**: https://github.com/na-in-lee/ 
+- **LinkedIn**: https://www.linkedin.com/in/lee-na-in 
 
 ---
 
